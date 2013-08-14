@@ -1,0 +1,26 @@
+
+.boxed {
+	border: 1px solid black ;
+}
+
+div {
+	text-align: center;
+	width: 25em;
+    padding: 0 4em;
+    margin: 4em auto 0 auto;
+    border: 10px solid #ccc;
+    border-right-color: #999;
+    border-bottom-color: #999;
+}
+
+p {
+	font-family: arial, sans-serif;
+	font-size: 45px;
+	color: #8b00e0;
+	font-weight: bold;
+}
+
+span {
+	font-size: 24px;
+	color: #ff9933;
+}
