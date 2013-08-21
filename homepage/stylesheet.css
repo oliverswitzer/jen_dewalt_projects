@@ -32,7 +32,6 @@ span {
 #today_container {
 
 	border-top: 1px solid #5f5f5f;
-	border-bottom: 1px solid #5f5f5f;
 	margin: 0px 50px;
 	padding: 30px 0 30px 0;
 	font-family: Arial, sans-serif;
@@ -41,7 +40,10 @@ span {
 }
 
 #projects {
-	margin: 30px 0 20px 50px;
+	border-top: 1px solid #5f5f5f;
+	margin: 30px 30px 20px 50px;
+	padding: 20px;
 	font-size: 22px;
+	text-align: left;
 }
 
